@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Management Web App
 
 ## Tech Stack
@@ -196,5 +195,6 @@ AI & LLM Deployment Enthusiast
 📄 License
 
 This project is created for learning, demonstration, and internship evaluation purposes.
->>>>>>> aa56eb25568a72a6f913e24b698dbd5abeb2cc3c
+
+
 
