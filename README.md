@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+# Task Management Web App
+
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python (Flask)
+- Database: MySQL
+
+## Features
+- Create, Read, Update, Delete tasks
+- REST API
+- Persistent storage
+
+## Setup
+1. Create MySQL database using schema.sql
+2. Install backend dependencies
+3. Run Flask server
+4. Open frontend/index.html in browser
+=======
 ✅ Task_Management_web_app
 
 A full-stack Task Management Web Application that allows users to create, view, update, and delete tasks with real-time status updates.
@@ -177,3 +196,4 @@ AI & LLM Deployment Enthusiast
 📄 License
 
 This project is created for learning, demonstration, and internship evaluation purposes.
+>>>>>>> aa56eb25568a72a6f913e24b698dbd5abeb2cc3c

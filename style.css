@@ -1,0 +1,115 @@
+    * {
+    box-sizing: border-box;
+    font-family: "Segoe UI", sans-serif;
+    }
+
+    body {
+    margin: 0;
+    background: linear-gradient(120deg, #667eea, #764ba2);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .app {
+    background: #fff;
+    width: 100%;
+    max-width: 420px;
+    padding: 25px;
+    border-radius: 14px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+    }
+
+    h1 {
+    margin: 0;
+    text-align: center;
+    }
+
+    .subtitle {
+    text-align: center;
+    color: #777;
+    margin-bottom: 20px;
+    }
+
+    .card {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    }
+
+    input, textarea, select {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    }
+
+    textarea {
+    resize: none;
+    height: 60px;
+    }
+
+    button {
+    background: #667eea;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    }
+
+    button:hover {
+    background: #5563d6;
+    }
+
+    .task-list {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    }
+
+    .task {
+    background: #f7f7f7;
+    padding: 12px;
+    border-radius: 10px;
+    position: relative;
+    }
+
+    .task h3 {
+    margin: 0 0 5px;
+    }
+
+    .task p {
+    margin: 0;
+    color: #555;
+    }
+.badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  padding: 4px 8px;
+  font-size: 12px;
+  border-radius: 12px;
+  color: white;
+}
+
+.badge.Pending {
+  background: #f59e0b;
+}
+
+.badge.In-Progress {
+  background: #3b82f6;
+}
+
+.badge.Completed {
+  background: #10b981;
+}
+.status-select {
+  margin-top: 8px;
+  padding: 6px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  width: 100%;
+}
