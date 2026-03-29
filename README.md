@@ -1,4 +1,5 @@
-# Task Management Web App              
+# Task Management Web App      
+# Deployement link: https://task-mangement-app-x.netlify.app/
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
@@ -138,7 +139,7 @@ Expected output:
 7️⃣ Run backend server
 python app.py
 
-Deployement link: https://task-mangement-app-x.netlify.app/
+
 
 Backend will start at:
 
