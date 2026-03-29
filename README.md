@@ -1,4 +1,4 @@
-# Task Management Web App              Deployement link:  task-mangement-app-x.netlify.app
+# Task Management Web App              
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
